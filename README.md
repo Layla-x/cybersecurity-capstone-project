@@ -19,8 +19,8 @@ This project uses a cybersecurity login dataset to identify suspicious login act
 
 ## How to Run the Notebook
 
-1. Open the notebook in Google Colab or Jupyter Notebook.
-2. Upload the `cybersecurity_login_dataset.csv` file.
+1. Open `log_analyzer_final_project.ipynb` in Google Colab.
+2. Upload `cybersecurity_login_dataset.csv` to the Colab session.
 3. Run the notebook cells from beginning to end.
 
 The project demonstrates foundational cybersecurity skills including password security, encryption, log analysis, phishing awareness, and AI-assisted threat detection.
